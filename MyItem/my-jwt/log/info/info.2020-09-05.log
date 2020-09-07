@@ -1,0 +1,211 @@
+2020-09-05 13:05:04 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 15892 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 13:05:04 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 13:05:05 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 13:05:05 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 13:05:05 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 29ms. Found 0 Redis repository interfaces.
+2020-09-05 13:05:06 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 13:05:06 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:05:06 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 13:05:06 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 13:05:06 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 13:05:06 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 1910 ms
+2020-09-05 13:05:06 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 13:05:07 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 13:05:08 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7afbf2a0, org.springframework.security.web.context.SecurityContextPersistenceFilter@4586a8aa, org.springframework.security.web.header.HeaderWriterFilter@7cc1f72c, org.springframework.security.web.authentication.logout.LogoutFilter@7e58f697, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@6ecc02bb, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2ff498b0, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@23c7cb18, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2a6fb62f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2ab9e43e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@54463380, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@49cb5030, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@4300e240, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@65e4cb84, org.springframework.security.web.session.SessionManagementFilter@1d8e9d3e, org.springframework.security.web.access.ExceptionTranslationFilter@1b8fa2fa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7534785a]
+2020-09-05 13:05:08 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:05:08 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 13:05:08 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 4.407 seconds (JVM running for 7.465)
+2020-09-05 13:06:17 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 13:06:17 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 13:06:17 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 34 ms
+2020-09-05 13:06:17 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 13:07:41 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-05 13:07:41 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} closed
+2020-09-05 13:07:46 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 10048 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 13:07:46 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 13:07:47 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 13:07:47 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 13:07:47 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 27ms. Found 0 Redis repository interfaces.
+2020-09-05 13:07:48 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 13:07:48 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:07:48 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 13:07:48 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 13:07:48 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 13:07:48 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 2007 ms
+2020-09-05 13:07:49 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 13:07:49 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 13:07:50 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1d4cc7, org.springframework.security.web.context.SecurityContextPersistenceFilter@7cc1f72c, org.springframework.security.web.header.HeaderWriterFilter@22fb9a2c, org.springframework.security.web.authentication.logout.LogoutFilter@5d3f99d7, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@478b0739, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5a39e554, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6481dce5, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7d28cdcd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7bec8cb0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1d8e9d3e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@85ab964, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@333d44f6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@255ed8e4, org.springframework.security.web.session.SessionManagementFilter@1b8fa2fa, org.springframework.security.web.access.ExceptionTranslationFilter@8b670c0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@31f31b20]
+2020-09-05 13:07:50 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:07:50 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 13:07:50 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 4.515 seconds (JVM running for 6.916)
+2020-09-05 13:07:53 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 13:07:53 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 13:07:53 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 10 ms
+2020-09-05 13:08:45 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-05 13:08:45 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} closed
+2020-09-05 13:08:50 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 12860 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 13:08:50 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 13:08:51 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 13:08:51 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 13:08:51 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 30ms. Found 0 Redis repository interfaces.
+2020-09-05 13:08:52 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 13:08:52 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:08:52 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 13:08:52 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 13:08:52 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 13:08:52 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 1828 ms
+2020-09-05 13:08:52 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 13:08:54 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 13:08:54 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@701d2b59, org.springframework.security.web.context.SecurityContextPersistenceFilter@2ba9f986, org.springframework.security.web.header.HeaderWriterFilter@5c5a91b4, org.springframework.security.web.authentication.logout.LogoutFilter@6ef1c3f7, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@47248a48, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@44bbb7c6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@64c8fcfb, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1999149e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@15c16f19, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@70f4f89e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@77ccded4, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@2342f1ff, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@65d73bd, org.springframework.security.web.session.SessionManagementFilter@59ec7020, org.springframework.security.web.access.ExceptionTranslationFilter@6b3d9c38, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d717f19]
+2020-09-05 13:08:54 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 13:08:54 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 13:08:55 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 4.872 seconds (JVM running for 7.366)
+2020-09-05 13:09:02 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 13:09:02 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 13:09:02 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 13 ms
+2020-09-05 13:13:19 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 13:13:43 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 13:13:46 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 13:14:08 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 14:41:07 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 276 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 14:41:07 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 14:41:08 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 14:41:08 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 14:41:08 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+2020-09-05 14:41:09 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 14:41:09 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 14:41:09 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 14:41:09 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 14:41:09 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 14:41:09 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 1909 ms
+2020-09-05 14:41:09 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 14:41:10 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 14:41:11 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@11148dc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@4228f269, org.springframework.security.web.header.HeaderWriterFilter@2ae3235e, org.springframework.security.web.authentication.logout.LogoutFilter@108b121f, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@16c1519e, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@56c42964, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4ab66127, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3be80ece, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@37a67cf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@775f15fd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@794c5f5e, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@340c5fb6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@60a01cb, org.springframework.security.web.session.SessionManagementFilter@3686389, org.springframework.security.web.access.ExceptionTranslationFilter@9d99851, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@48c5698]
+2020-09-05 14:41:11 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 14:41:11 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 14:41:11 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 5.177 seconds (JVM running for 8.677)
+2020-09-05 14:42:02 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 14:42:02 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 14:42:02 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 11 ms
+2020-09-05 14:42:22 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 14:42:22 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 14:42:41 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 14:44:55 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 14:45:07 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 14:46:20 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 14:50:47 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 14:51:50 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 14:55:51 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 15:00:06 INFO  [org.apache.juli.logging.DirectJDKLog              ] : A cookie header was received [eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJleHAiOjE1OTkyOTA0NTF9.UCQDHBJcIf-3gadcVFZY7UzMYj5erFmsMLvmIGNjRpsprp4nL9P2FDRtfc7Dpq5-mEbb1zlLFGOPfCAQ-XPQmzzzu5FItC3pxXYqETB3St8fx4EqVm9oaIFbaOjUf6cMG2zA2PII98iQPjU44pubvNbjd8KELITGM6uwSEw_vDI] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-05 15:00:06 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:00:07 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:00:07 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:00:07 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:12:13 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 15:12:38 INFO  [ther.myjwt.common.security.AjaxAccessDeniedHandler] : -------->USER_NO_ACCESS<--------
+2020-09-05 15:14:14 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-05 15:14:14 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} closed
+2020-09-05 15:14:24 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 18700 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 15:14:24 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 15:14:25 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 15:14:25 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 15:14:25 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 34ms. Found 0 Redis repository interfaces.
+2020-09-05 15:14:26 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 15:14:26 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 15:14:26 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 15:14:26 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 15:14:26 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 15:14:26 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 1876 ms
+2020-09-05 15:14:26 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 15:14:27 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 15:14:28 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b5ad306, org.springframework.security.web.context.SecurityContextPersistenceFilter@23c7cb18, org.springframework.security.web.header.HeaderWriterFilter@6481dce5, org.springframework.security.web.authentication.logout.LogoutFilter@9f0fc36, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@461c3709, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5e0f2c82, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7bec8cb0, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@54be6213, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@ce561cc, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2d74cbbd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4239262e, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@4afd65fd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@48a46b0f, org.springframework.security.web.session.SessionManagementFilter@14874a5d, org.springframework.security.web.access.ExceptionTranslationFilter@26d40c77, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5908e6d6]
+2020-09-05 15:14:28 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 15:14:28 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 15:14:28 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 4.643 seconds (JVM running for 7.275)
+2020-09-05 15:14:35 INFO  [org.apache.juli.logging.DirectJDKLog              ] : A cookie header was received [eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJleHAiOjE1OTkyOTE0MzN9.qHADEfpb2ly52W10QbikMjSJOAA01gYgDK35bXTfFUPodMtFEN5Oog5LjnUxuJk_ASmcr3anjRlfLbAyO0Pofc1uZqh5TbxFiL8Zw53SPdA1XqyEd5n_WOLXuoLoD4BRUj6O_6foV_u2-xpypbpV45h6cplgPk98W--SPfBEodQ] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-05 15:14:35 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 15:14:35 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 15:14:35 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 15 ms
+2020-09-05 15:17:21 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:17:24 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:17:25 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:17:26 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:17:26 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:17:26 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:20:29 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:20:34 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 15:20:37 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : -------->USER_LOGIN_SUCCESS<--------
+2020-09-05 17:43:35 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 13252 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 17:43:35 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 17:43:36 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 17:43:36 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 17:43:36 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 24ms. Found 0 Redis repository interfaces.
+2020-09-05 17:43:37 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 17:43:37 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 17:43:37 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 17:43:37 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 17:43:37 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 17:43:37 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 1863 ms
+2020-09-05 17:43:37 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 17:43:38 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 17:43:39 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5cc3e49b, org.springframework.security.web.context.SecurityContextPersistenceFilter@64f32e9e, org.springframework.security.web.header.HeaderWriterFilter@6a4af081, org.springframework.security.web.authentication.logout.LogoutFilter@1f172892, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@374c40ba, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2d74cbbd, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@53e93fb7, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4239262e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2262f0d8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3b770d07, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5d7f1e59, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@23afc725, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7bec8cb0, org.springframework.security.web.session.SessionManagementFilter@54329480, org.springframework.security.web.access.ExceptionTranslationFilter@4d25f816, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@12365bd8]
+2020-09-05 17:43:39 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 17:43:39 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 17:43:39 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 4.509 seconds (JVM running for 8.038)
+2020-09-05 17:44:04 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 17:44:04 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 17:44:04 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 17 ms
+2020-09-05 17:44:28 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 17:48:26 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-05 17:48:26 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} closed
+2020-09-05 17:48:31 INFO  [org.springframework.boot.StartupInfoLogger        ] : Starting MyJwtApplication on LAPTOP-V4F9FVFF with PID 13964 (E:\MyItem\my-jwt\target\classes started by 86166 in E:\MyItem)
+2020-09-05 17:48:31 INFO  [org.springframework.boot.SpringApplication        ] : No active profile set, falling back to default profiles: default
+2020-09-05 17:48:32 INFO  [.repository.config.RepositoryConfigurationDelegate] : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-09-05 17:48:32 INFO  [.repository.config.RepositoryConfigurationDelegate] : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-09-05 17:48:32 INFO  [.repository.config.RepositoryConfigurationDelegate] : Finished Spring Data repository scanning in 29ms. Found 0 Redis repository interfaces.
+2020-09-05 17:48:33 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat initialized with port(s): 9090 (http)
+2020-09-05 17:48:33 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing ProtocolHandler ["http-nio-9090"]
+2020-09-05 17:48:33 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting service [Tomcat]
+2020-09-05 17:48:33 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-05 17:48:33 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring embedded WebApplicationContext
+2020-09-05 17:48:33 INFO  [servlet.context.ServletWebServerApplicationContext] : Root WebApplicationContext: initialization completed in 2053 ms
+2020-09-05 17:48:33 INFO  [com.alibaba.druid.pool.DruidDataSource            ] : {dataSource-1} inited
+2020-09-05 17:48:35 INFO  [scheduling.concurrent.ExecutorConfigurationSupport] : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-05 17:48:35 INFO  [gframework.security.web.DefaultSecurityFilterChain] : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@786a3477, org.springframework.security.web.context.SecurityContextPersistenceFilter@1c00d406, org.springframework.security.web.header.HeaderWriterFilter@53e93fb7, org.springframework.security.web.authentication.logout.LogoutFilter@451816fd, com.alimather.myjwt.common.filters.JwtAuthenticationTokenFilter@6df4af5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4fd80300, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2262f0d8, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@286866cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@a3b858f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@559d19c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5c9e8a67, org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilter@64fdcf99, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@ce561cc, org.springframework.security.web.session.SessionManagementFilter@2326180c, org.springframework.security.web.access.ExceptionTranslationFilter@4a6a6a69, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7d88fa9c]
+2020-09-05 17:48:35 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Starting ProtocolHandler ["http-nio-9090"]
+2020-09-05 17:48:35 INFO  [framework.boot.web.embedded.tomcat.TomcatWebServer] : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-05 17:48:36 INFO  [org.springframework.boot.StartupInfoLogger        ] : Started MyJwtApplication in 5.237 seconds (JVM running for 7.685)
+2020-09-05 17:48:54 INFO  [org.apache.juli.logging.DirectJDKLog              ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-05 17:48:54 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Initializing Servlet 'dispatcherServlet'
+2020-09-05 17:48:54 INFO  [org.springframework.web.servlet.FrameworkServlet  ] : Completed initialization in 8 ms
+2020-09-05 17:49:17 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 17:50:35 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 17:59:13 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 18:02:00 INFO  [her.myjwt.common.security.AjaxLogoutSuccessHandler] : token：eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTI5OTY1NX0.gqD3olhaJ7oLdnQpdOBSl7-8-GlTs_kHOX5ExHqH8Q89ZKbIopE79ZKI1PqOit8RWckhZJ8s2lhMBbrMCZD5t49SW_KjoGJFy3wZ2S-XFo4tYOTZcWVs-Jp_dC1qwwY70zixaaSzWVxE1r2NPdhXZQZI3roKOikaxXvZb-qpw4s已加入redis黑名单
+2020-09-05 18:02:09 INFO  [.myjwt.common.filters.JwtAuthenticationTokenFilter] : 用户：null的token：eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTI5OTY1NX0.gqD3olhaJ7oLdnQpdOBSl7-8-GlTs_kHOX5ExHqH8Q89ZKbIopE79ZKI1PqOit8RWckhZJ8s2lhMBbrMCZD5t49SW_KjoGJFy3wZ2S-XFo4tYOTZcWVs-Jp_dC1qwwY70zixaaSzWVxE1r2NPdhXZQZI3roKOikaxXvZb-qpw4s在黑名单之中，拒绝访问
+2020-09-05 18:02:29 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:03:39 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 18:04:32 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:06:30 INFO  [myjwt.common.security.AjaxAuthenticationEntryPoint] : -------->USER_NEED_AUTHORITIES<--------
+2020-09-05 18:08:57 INFO  [.myjwt.common.filters.JwtAuthenticationTokenFilter] : eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTMwMDU3Mn0.ubqyosfMwIwmP60PQZrRUxKwh9_HkEIr-2s1ensUT-0qcsQV2YUDXZYfuQxKGcoMLXutFg5OnTCu5HDNgkyYuT-piY1Anbei2-8O_uriy5Zel8zbtKOLzjWT-gMIVeQs0g06XIu26on6In4Hk3sEqHbawQp63Ocs0QJSmaIbNUA已作废，加入黑名单
+2020-09-05 18:09:10 INFO  [.myjwt.common.filters.JwtAuthenticationTokenFilter] : redis已删除旧token：eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTMwMDU3Mn0.ubqyosfMwIwmP60PQZrRUxKwh9_HkEIr-2s1ensUT-0qcsQV2YUDXZYfuQxKGcoMLXutFg5OnTCu5HDNgkyYuT-piY1Anbei2-8O_uriy5Zel8zbtKOLzjWT-gMIVeQs0g06XIu26on6In4Hk3sEqHbawQp63Ocs0QJSmaIbNUA,新token：eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTMwMDg0OH0.TNGwzTutQ8eAIfnHdPNlBwMEB1v7ILdc8-BxnvCqWhDgPrye2TUTEDvVcYuesZBMOAK5ZLa2JJ8Wn8HqIXCUUD5l_vazyiWIs5NV1-EH8GfFTy3EUfduA0-oH5RsJQNUsFP-7n4hkFGM-XD0WmNhWzNmc9Q3O3JQsk40REtmJB0已更新redis
+2020-09-05 18:09:49 INFO  [.myjwt.common.filters.JwtAuthenticationTokenFilter] : 用户：null的token：eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjA6MDowOjA6MDowOjA6MSIsImV4cCI6MTU5OTMwMDU3Mn0.ubqyosfMwIwmP60PQZrRUxKwh9_HkEIr-2s1ensUT-0qcsQV2YUDXZYfuQxKGcoMLXutFg5OnTCu5HDNgkyYuT-piY1Anbei2-8O_uriy5Zel8zbtKOLzjWT-gMIVeQs0g06XIu26on6In4Hk3sEqHbawQp63Ocs0QJSmaIbNUA在黑名单之中，拒绝访问
+2020-09-05 18:15:35 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:15:37 INFO  [org.apache.juli.logging.DirectJDKLog              ] : A cookie header was received [eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5amciLCJpcCI6IjEyNy4wLjAuMSIsImV4cCI6MTU5OTMwMTIzNX0.Bj0pMxetGGQBZVdj7PGJMabB8l7soqpydlXkl_aciWACaQM24xWKQiMCSuoDXi9Ey2_uJufQUpzdx3P_OMGoIOt-zE72hoGu1FFuFtXLDlNdeqtHJenrdmxvs4yNXifQkumPD1boDkYk29o-PxTbwIQ0SQCNdXLuzYqJZao065E] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-05 18:34:17 INFO  [t.common.security.AjaxAuthenticationFailureHandler] : -------->USER_LOGIN_FAILED<--------
+2020-09-05 18:34:20 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:35:48 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:36:25 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:38:27 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:41:57 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 18:42:47 INFO  [t.common.security.AjaxAuthenticationSuccessHandler] : 用户yjg登录成功，信息已保存至redis
+2020-09-05 21:00:00 INFO  [netty.util.internal.logging.AbstractInternalLogger] : Reconnecting, last destination was /192.168.181.64:6379
+2020-09-05 21:00:02 WARN  [netty.util.internal.logging.AbstractInternalLogger] : Cannot reconnect to [192.168.181.64:6379]: Connection refused: no further information: /192.168.181.64:6379
+2020-09-05 21:00:06 INFO  [netty.util.internal.logging.AbstractInternalLogger] : Reconnecting, last destination was 192.168.181.64:6379
+2020-09-05 21:00:16 WARN  [netty.util.internal.logging.AbstractInternalLogger] : Cannot reconnect to [192.168.181.64:6379]: connection timed out: /192.168.181.64:6379
+2020-09-05 21:00:16 INFO  [netty.util.internal.logging.AbstractInternalLogger] : Reconnecting, last destination was 192.168.181.64:6379
+2020-09-05 21:00:26 WARN  [netty.util.internal.logging.AbstractInternalLogger] : Cannot reconnect to [192.168.181.64:6379]: connection timed out: /192.168.181.64:6379
+2020-09-05 21:00:26 INFO  [netty.util.internal.logging.AbstractInternalLogger] : Reconnecting, last destination was 192.168.181.64:6379

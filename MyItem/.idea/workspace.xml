@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108fcb9c-7c6f-4d19-836e-bd1cdd3b51e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="远程提讯" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="远程提讯" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="远程提讯" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="arraign: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven-Repository-me" />
+        <option name="mavenHome" value="D:/commonq/apache-maven-3.5.4-me" />
+        <option name="userSettingsFile" value="C:\Users\86166\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h4rrCiY61GRz9lP58dhLaTPTJ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599210431190" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyItem\my-jwt\src\main\resources" />
+      <recent name="E:\MyItem\my-jwt\src\main\resources\mapper" />
+      <recent name="E:\MyItem\my-jwt\src\main\java\com\alimather\myjwt" />
+      <recent name="E:\MyItem\my-jwt\src\main\java\com\alimather\myjwt\mapper\xml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyjwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alimather.myjwt.MyJwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108fcb9c-7c6f-4d19-836e-bd1cdd3b51e0" name="Default Changelist" comment="" />
+      <created>1598593002760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598593002760</updated>
+      <workItem from="1598593004182" duration="13204000" />
+      <workItem from="1598832251505" duration="69000" />
+      <workItem from="1599116648876" duration="8767000" />
+      <workItem from="1599186163059" duration="12492000" />
+      <workItem from="1599281410682" duration="401000" />
+      <workItem from="1599281845092" duration="1159000" />
+      <workItem from="1599283031101" duration="3850000" />
+      <workItem from="1599298595681" duration="5324000" />
+      <workItem from="1599355122718" duration="12054000" />
+      <workItem from="1599477677919" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1599359787732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1599359787732" />
+    <state x="528" y="113" key="FileChooserDialogImpl" timestamp="1599299208499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599299208499" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1599477738516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599477738516" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.1.center" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.1.left" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.1.right" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.2.bottom" timestamp="1599477738518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599477738518" />
+    <state width="1493" height="283" key="GridCell.Tab.2.center" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.2.left" timestamp="1599477738517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1599477738517" />
+    <state width="1493" height="283" key="GridCell.Tab.2.right" timestamp="1599477738518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1599477738518" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1599477701907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599477701907" />
+    <state width="776" height="420" key="XDebugger.FullValuePopup" timestamp="1599359787726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="776" height="420" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1599359787726" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599366912817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599366912817" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/my-jwt/src/main/java/com/alimather/myjwt/service/impl/SelfUserDetailsService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
